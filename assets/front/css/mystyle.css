@@ -1,0 +1,15 @@
+.mylogo {transition: all 200ms ease 0s;}
+.mylogo:hover {
+	filter: grayscale(1);
+	transform: scale(1.1);
+}
+
+.fl {
+	display:flex; 
+	justify-content:right;
+	align-content: center;
+} 
+
+.kepala {
+	width: 100%;
+}

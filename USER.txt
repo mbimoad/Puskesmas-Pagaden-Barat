@@ -1,0 +1,2 @@
+email: admin.puskesmas@gmail.com
+pass: maulida
